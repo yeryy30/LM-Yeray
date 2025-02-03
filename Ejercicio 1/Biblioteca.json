@@ -1,0 +1,37 @@
+[
+    {
+        "titulo": "Asi es la puta vida",
+        "autor": "Jordi Wild",
+        "genero": "Anti-Motivacion",
+        "año": 2022, 
+        "portada": "imágenes/Asi_es_la_puta_vida.jpg"
+    },
+    {
+        "titulo": "Geronimo Stilton",
+        "autor": "Elisabetta Dami",
+        "genero": "Aventura, humor",
+        "año": 2015, 
+        "portada": "imágenes/Geronimo_Stilton.jpg"
+    },
+    {
+        "titulo": "Diario de Greg",
+        "autor": "Jeff Kinney",
+        "genero": "Juvenil, humor",
+        "año": 2007, 
+        "portada": "imágenes/Diario_de_Greg.jpg"
+    },
+    {
+        "titulo": "Los secretos de YouTube",
+        "autor": "David Canovas",
+        "genero": "Juvenil, humor",
+        "año": 2007, 
+        "portada": "imágenes/Los_secretos_de_Youtube.jpg"
+    },
+    {
+        "titulo": "Wigetta",
+        "autor": "Vegetta777 & Willyrex",
+        "genero": "Aventura, humor",
+        "año": 2015, 
+        "portada": "imágenes/Wigetta.jpg"
+    }
+]
